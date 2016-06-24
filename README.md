@@ -5,4 +5,4 @@ Repositorio con ejercicios cortos sobre diseño y desarrollo web ordenados por c
 - [jQuery](./jquery/README.md)
 - [css](./css/README.md) WIP!
 - [Video](./video/README.md) WIP!
-- [Twitter Bootstrap v3](./bootstrapv3/README.md)
+- [Twitter Bootstrap v3](./bootstrapv3/README.md)# ejercicios-de-web
